@@ -1,6 +1,6 @@
 
 
-### This project was forked and settings modified from uzukwuJP Github
+### This project was forked from uzukwuJP Github and settings modified 
 
 ## ANSIBLE DYNAMIC ASSIGNMENTS (INCLUDE) AND COMMUNITY ROLES
 
