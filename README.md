@@ -1,6 +1,6 @@
 
 
-### This project was completely forked and settings modified from uzukwuJP Github as the project was the major Bloker on this Devops Journey
+### This project was forked and settings modified from uzukwuJP Github
 
 ## ANSIBLE DYNAMIC ASSIGNMENTS (INCLUDE) AND COMMUNITY ROLES
 
